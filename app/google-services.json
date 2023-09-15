@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978044970063",
+    "project_id": "loginwithfirebase-1b446",
+    "storage_bucket": "loginwithfirebase-1b446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978044970063:android:06bc6509901d522095f63a",
+        "android_client_info": {
+          "package_name": "com.example.gmailloginwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTsMzQOPL9Q1ULL4Xz9Ij_8cjea9RA71s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
